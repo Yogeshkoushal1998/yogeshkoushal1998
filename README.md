@@ -1,5 +1,9 @@
 # 💫 About Me:
-- Senior Android Developer with 5+ years of experience in designing, developing, and deploying scalable Android applications.<br>- Skilled in Kotlin, Java, and Android Jetpack.<br>- Strong expertise in MVVM architecture, REST API integration, Firebase, SQLite, testing, CI/CD, and Google Play Console.<br>- Proven track record of delivering high-quality mobile solutions.<br>- Experienced in improving app performance and collaborating with cross-functional teams to meet business and user needs.
+- Senior Android Developer with 5+ years of experience in designing, developing, and deploying scalable Android applications.
+- Skilled in Kotlin, Java, and Android Jetpack.
+- Strong expertise in MVVM architecture, REST API integration, Firebase, SQLite, testing, CI/CD, and Google Play Console.
+- Proven track record of delivering high-quality mobile solutions.
+- Experienced in improving app performance and collaborating with cross-functional teams to meet business and user needs.
 
 
 ## 🌐 Socials:
